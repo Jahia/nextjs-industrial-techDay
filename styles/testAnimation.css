@@ -1,0 +1,10 @@
+/*.fadeInUp-enter {*/
+/*    opacity: 0;*/
+/*    visibility: hidden;*/
+/*}*/
+
+/*.fadeInUp-enter.fadeInUp-enter-active {*/
+/*    animation-duration: 1s;*/
+/*    animation-fill-mode: both;*/
+/*    animation-name: fadeInUp;*/
+/*}*/
